@@ -1,33 +1,31 @@
 [
- {
-  "id":1,
-  "judul": "Intensitas Hujan Januari 2026: Petani Cabai Terancam Gagal Panen",
-  "penulis": "Admin Tani",
-  "tanggal": "07 Februari 2026",
-  "lokasi": "Jawa Tengah & DIY",
-  "isi_berita": "Curah hujan yang ekstrem di awal tahun 2026 menyebabkan lahan pertanian terendam air hingga 50cm...",
-  "dampak": [
-    "Busuk akar pada tanaman cabai muda",
-    "Penyebaran jamur antraknosa yang masif",
-    "Kenaikan harga pupuk cair untuk pemulihan"
-  ]
- }
-  ,
-
+  {
+    "id": 1,
+    "judul": "Intensitas Hujan Januari 2026: Petani Cabai Terancam Gagal Panen",
+    "penulis": "Admin Tani",
+    "tanggal": "07 Februari 2026",
+    "lokasi": "Jawa Tengah & DIY",
+    "isi_berita": "Curah hujan yang ekstrem di awal tahun 2026 menyebabkan lahan pertanian terendam air hingga 50cm...",
+    "dampak": [
+      "Busuk akar pada tanaman cabai muda",
+      "Penyebaran jamur antraknosa yang masif",
+      "Kenaikan harga pupuk cair untuk pemulihan"
+    ]
+  },
   {
     "id": 2,
     "tanggal": "07 Januari 2026",
-    "title": "Hujan Ekstrem Januari: Petani Cabai Siaga Satu",
+    "judul": "Hujan Ekstrem Januari: Petani Cabai Siaga Satu",
     "lokasi": "Jawa Tengah",
-    "isi_berita": "Intensitas hujan yang mencapai 400mm di awal tahun membuat lahan cabai terancam busuk akar..."
+    "isi_berita": "Intensitas hujan yang mencapai 400mm di awal tahun membuat lahan cabai terancam busuk akar...",
+    "dampak": ["", "", ""]
   },
   {
     "id": 3,
     "tanggal": "15 Januari 2026",
-    "title": "Stok Cabai Nasional Menipis Akibat Cuaca",
+    "judul": "Stok Cabai Nasional Menipis Akibat Cuaca",
     "lokasi": "Nasional",
-    "isi_berita": "Kenaikan harga mulai terasa di pasar-pasar induk karena kegagalan panen di tingkat produsen..."
+    "isi_berita": "Kenaikan harga mulai terasa di pasar-pasar induk karena kegagalan panen di tingkat produsen...",
+    "dampak": ["", "", ""]
   }
-
 ]
-
