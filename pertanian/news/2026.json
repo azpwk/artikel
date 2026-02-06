@@ -5,7 +5,7 @@
     "penulis": "Admin Tani",
     "tanggal": "07 Februari 2026",
     "lokasi": "Jawa Tengah & DIY",
-    "isi_berita": "Curah hujan yang ekstrem di awal tahun 2026 menyebabkan lahan pertanian terendam air hingga 50cm...",
+    "isi_berita": "Curah hujan yang ekstrem di awal tahun 2026 menyebabkan lahan pertanian terendam air hingga 50cm. Petani cabai di wilayah Boyolali, Klaten, dan Sleman melaporkan kerusakan parah pada tanaman muda.",
     "dampak": [
       "Busuk akar pada tanaman cabai muda",
       "Penyebaran jamur antraknosa yang masif",
@@ -14,18 +14,509 @@
   },
   {
     "id": 2,
-    "tanggal": "07 Januari 2026",
     "judul": "Hujan Ekstrem Januari: Petani Cabai Siaga Satu",
+    "penulis": "Reporter Agri",
+    "tanggal": "07 Januari 2026",
     "lokasi": "Jawa Tengah",
-    "isi_berita": "Intensitas hujan yang mencapai 400mm di awal tahun membuat lahan cabai terancam busuk akar...",
-    "dampak": ["", "", ""]
+    "isi_berita": "Intensitas hujan yang mencapai 400mm di awal tahun membuat lahan cabai terancam busuk akar. Dinas Pertanian setempat mengeluarkan peringatan dini untuk petani.",
+    "dampak": [
+      "Gagal panen mencapai 30% di sentra produksi",
+      "Penundaan masa tanam hingga 3 minggu",
+      "Kelangkaan pestisida pencegah jamur"
+    ]
   },
   {
     "id": 3,
-    "tanggal": "15 Januari 2026",
     "judul": "Stok Cabai Nasional Menipis Akibat Cuaca",
+    "penulis": "Badan Pangan Nasional",
+    "tanggal": "15 Januari 2026",
     "lokasi": "Nasional",
-    "isi_berita": "Kenaikan harga mulai terasa di pasar-pasar induk karena kegagalan panen di tingkat produsen...",
-    "dampak": ["", "", ""]
+    "isi_berita": "Kenaikan harga mulai terasa di pasar-pasar induk karena kegagalan panen di tingkat produsen. Stok cabai merah besar turun 40% dibanding bulan sebelumnya.",
+    "dampak": [
+      "Harga cabai merah mencapai Rp 120.000/kg",
+      "Impor cabai darurat dari Vietnam direncanakan",
+      "Pasar tradisional kekurangan pasokan"
+    ]
+  },
+  {
+    "id": 4,
+    "judul": "Program Smart Farming Kementan Diperluas ke 1000 Desa",
+    "penulis": "Kementerian Pertanian",
+    "tanggal": "20 Januari 2026",
+    "lokasi": "Nasional",
+    "isi_berita": "Kementerian Pertanian meluncurkan fase kedua program smart farming dengan teknologi IoT untuk monitoring tanaman dan irigasi otomatis.",
+    "dampak": [
+      "Peningkatan produktivitas hingga 25%",
+      "Penghematan air irigasi 40%",
+      "Pembukaan lapangan kerja teknologi pertanian"
+    ]
+  },
+  {
+    "id": 5,
+    "judul": "Serangan Wereng Batang Coklat Meluas di Jawa Timur",
+    "penulis": "Ahli Hama IPB",
+    "tanggal": "25 Januari 2026",
+    "lokasi": "Jawa Timur",
+    "isi_berita": "Hama wereng batang coklat menyerang lahan padi seluas 15.000 hektar di Ngawi, Madiun, dan Bojonegoro. Petani menghadapi ancaman kehilangan panen.",
+    "dampak": [
+      "Rusaknya tanaman padi fase generatif",
+      "Peningkatan penggunaan insektisida sistemik",
+      "Potensi gagal panen 20-30% di wilayah terdampak"
+    ]
+  },
+  {
+    "id": 6,
+    "judul": "Ekspor Kopi Arabika Gayo Meningkat 35%",
+    "penulis": "Asosiasi Eksportir Kopi",
+    "tanggal": "05 Februari 2026",
+    "lokasi": "Aceh",
+    "isi_berita": "Permintaan kopi Arabika Gayo dari pasar Eropa dan Amerika Serikat melonjak signifikan. Kualitas cupping score yang konsisten menjadi daya tarik utama.",
+    "dampak": [
+      "Kenaikan harga biji kopi di tingkat petani",
+      "Perluasan area tanam kopi arabika",
+      "Peningkatan pendapatan petani kopi Gayo"
+    ]
+  },
+  {
+    "id": 7,
+    "judul": "Krisis Pupuk Subsidi di Musim Tanam",
+    "penulis": "Petani Nusantara",
+    "tanggal": "10 Februari 2026",
+    "lokasi": "Jawa Barat",
+    "isi_berita": "Kelangkaan pupuk subsidi jenis Urea dan NPK terjadi di berbagai wilayah sentra pertanian. Petani mengeluh harus membeli pupuk non-subsidi dengan harga 3x lipat.",
+    "dampak": [
+      "Biaya produksi meningkat drastis",
+      "Penurunan penggunaan pupuk berimbang",
+      "Protes petani di gudang penyangga pupuk"
+    ]
+  },
+  {
+    "id": 8,
+    "judul": "Teknologi Drone Sprayer Diadopsi Perkebunan Sawit",
+    "penulis": "Majalah Perkebunan",
+    "tanggal": "12 Februari 2026",
+    "lokasi": "Riau & Kalimantan",
+    "isi_berita": "Perkebunan sawit skala besar mulai menggunakan drone untuk penyemprotan pestisida dan pupuk cair. Efisiensi meningkat 5x dibanding cara manual.",
+    "dampak": [
+      "Pengurangan tenaga kerja penyemprot",
+      "Efisiensi penggunaan pestisida 30%",
+      "Minimalkan risiko kesehatan pekerja"
+    ]
+  },
+  {
+    "id": 9,
+    "judul": "Panen Raya Padi di Cirebon Capai 8 Ton/Ha",
+    "penulis": "Dinas Pertanian Jabar",
+    "tanggal": "18 Februari 2026",
+    "lokasi": "Cirebon, Jawa Barat",
+    "isi_berita": "Varietas padi Inpari 32 dan Inpari 42 menunjukkan hasil optimal dengan penerapan Jajar Legowo 2:1. Produktivitas meningkat 15% dari rata-rata nasional.",
+    "dampak": [
+      "Swasembada beras wilayah III Cirebon",
+      "Peningkatan pendapatan petani padi",
+      "Minimnya serangan hama penggerek batang"
+    ]
+  },
+  {
+    "id": 10,
+    "judul": "Kebakaran Lahan Gambut Ancam Perkebunan Nanas",
+    "penulis": "Wartawan Lingkungan",
+    "tanggal": "22 Februari 2026",
+    "lokasi": "Sumatera Selatan",
+    "isi_berita": "Kebakaran lahan gambut di Ogan Komering Ilir merusak perkebunan nanas seluas 500 hektar. Api sulit dipadamkan karena kedalaman gambut mencapai 3 meter.",
+    "dampak": [
+      "Gagal panen nanas madu",
+      "Kerusakan ekosistem gambut permanen",
+      "Kabut asap mengganggu aktivitas pertanian"
+    ]
+  },
+  {
+    "id": 11,
+    "judul": "Sertifikasi Organic Farming untuk Rempah Nusantara",
+    "penulis": "Badan Sertifikasi Organik",
+    "tanggal": "25 Februari 2026",
+    "lokasi": "Maluku & NTT",
+    "isi_berita": "Lada, pala, dan cengkeh dari Maluku dan NTT mendapatkan sertifikasi organik internasional. Nilai jual meningkat 50% di pasar ekspor.",
+    "dampak": [
+      "Akses pasar premium Eropa terbuka",
+      "Penerapan praktik pertanian berkelanjutan",
+      "Pelestarian varietas rempah asli"
+    ]
+  },
+  {
+    "id": 12,
+    "judul": "Wabah Penyakit Kerdil Rumput pada Jagung",
+    "penulis": "Balitsereal",
+    "tanggal": "28 Februari 2026",
+    "lokasi": "Lampung & Jawa Tengah",
+    "isi_berita": "Penyakit kerdil rumput (Maize Rough Dwarf Virus) menyerang pertanaman jagung di lahan sawah. Penularan melalui vektor wereng daun.",
+    "dampak": [
+      "Kerugian hasil 40-100%",
+      "Tanaman jagung tidak berbuah",
+      "Percepatan rotasi tanaman non-jagung"
+    ]
+  },
+  {
+    "id": 13,
+    "judul": "Program Pertanian Perkotaan di DKI Jakarta",
+    "penulis": "Dinas Ketahanan Pangan DKI",
+    "tanggal": "01 Maret 2026",
+    "lokasi": "Jakarta",
+    "isi_berita": "Pemerintah DKI meluncurkan program urban farming di 100 RW dengan teknologi hidroponik dan vertikultur. Fokus pada sayuran daun dan cabai keriting.",
+    "dampak": [
+      "Ketahanan pangan tingkat rumah tangga",
+      "Pengurangan jejak karbon logistik sayur",
+      "Pemberdayaan kelompok ibu-ibu PKK"
+    ]
+  },
+  {
+    "id": 14,
+    "judul": "Kenaikan Harga Bibit Sapi Potong 30%",
+    "penulis": "Asosiasi Peternak Sapi",
+    "tanggal": "03 Maret 2026",
+    "lokasi": "Jawa Timur",
+    "isi_berita": "Harga bibit sapi PO (Peranakan Ongole) dan Limousin meningkat tajam akibat berkurangnya pasokan dari Australia dan tingginya permintaan jelang Idul Adha.",
+    "dampak": [
+      "Biaya awal usaha penggemukan sapi naik",
+      "Minimnya program pengadaan bibit murah",
+      "Penurunan minat peternak pemula"
+    ]
+  },
+  {
+    "id": 15,
+    "judul": "Teknologi Pemupukan Presisi dengan Sensor Tanah",
+    "penulis": "Balai Penelitian Tanah",
+    "tanggal": "05 Maret 2026",
+    "lokasi": "Bogor, Jawa Barat",
+    "isi_berita": "Alat sensor N-P-K dan pH tanah real-time membantu petani menentukan dosis pupuk yang tepat. Uji coba di lahan penelitian menunjukkan efisiensi pupuk 25%.",
+    "dampak": [
+      "Pengurangan limbah pupuk kimia",
+      "Peningkatan efisiensi biaya produksi",
+      "Minimalisasi pencemaran air tanah"
+    ]
+  },
+  {
+    "id": 16,
+    "judul": "Ekspor Mangga Gedong Gincu ke Tiongkok Dimulai",
+    "penulis": "Karantina Pertanian",
+    "tanggal": "08 Maret 2026",
+    "lokasi": "Indramayu, Jawa Barat",
+    "isi_berita": "Ekspor perdana mangga Gedong Gincu sebanyak 20 ton ke Shanghai berhasil dilakukan setelah melalui proses karantina dan cold treatment yang ketat.",
+    "dampak": [
+      "Peningkatan harga mangga di tingkat petani",
+      "Penerapan GAP (Good Agricultural Practice) wajib",
+      "Pembukaan pasar ekspor buah tropis baru"
+    ]
+  },
+  {
+    "id": 17,
+    "judul": "Kekeringan Awal Musim Kemarau di NTT",
+    "penulis": "BMKG NTT",
+    "tanggal": "10 Maret 2026",
+    "lokasi": "Nusa Tenggara Timur",
+    "isi_berita": "Hujan sudah berhenti lebih awal di Sumba, Flores, dan Timor. Sumur dan embung mulai mengering, mengancam pertanaman palawija dan ternak.",
+    "dampak": [
+      "Gagal panen jagung dan kacang tanah",
+      "Krisis air minum untuk ternak",
+      "Migrasi sementara petani ke kota"
+    ]
+  },
+  {
+    "id": 18,
+    "judul": "Pengembangan Varietas Padi Tahan Rendaman",
+    "penulis": "Balai Besar Penelitian Padi",
+    "tanggal": "12 Maret 2026",
+    "lokasi": "Subang, Jawa Barat",
+    "isi_berita": "Varietas padi baru 'Inpara' (Inpari Rawa) mampu bertahan terendam air hingga 14 hari. Cocok untuk lahan rawa pasang surut dan banjir.",
+    "dampak": [
+      "Optimasi lahan rawa untuk pangan",
+      "Minimalkan risiko gagal panen banjir",
+      "Diversifikasi varietas adaptif iklim"
+    ]
+  },
+  {
+    "id": 19,
+    "judul": "Harga Telur Ayam Ras Melonjak ke Rp 35.000/kg",
+    "penulis": "Asosiasi Produsen Pakan",
+    "tanggal": "15 Maret 2026",
+    "lokasi": "Nasional",
+    "isi_berita": "Kenaikan harga jagung dan kedelai impor sebagai bahan baku pakan menyebabkan biaya produksi telur meningkat. Harga eceran di pasar tradisional meroket.",
+    "dampak": [
+      "Penurunan konsumsi protein hewani masyarakat",
+      "Kerugian peternak layer skala kecil",
+      "Peningkatan permintaan telur ayam kampung"
+    ]
+  },
+  {
+    "id": 20,
+    "judul": "Pelatihan Pemuda Milenial Jadi Petani Digital",
+    "penulis": "Kementan - Pusat Pelatihan",
+    "tanggal": "18 Maret 2026",
+    "lokasi": "Yogyakarta",
+    "isi_berita": "Sebanyak 500 pemuda dari seluruh Indonesia mengikuti pelatihan intensif pertanian digital selama 3 bulan. Materi meliputi IoT, data analytics, dan e-commerce.",
+    "dampak": [
+      "Regenerasi petani muda terdidik",
+      "Adopsi teknologi pertanian cepat",
+      "Penciptaan startup agritech baru"
+    ]
+  },
+  {
+    "id": 21,
+    "judul": "Serangan Tikus Sawah Luas di Sukoharjo",
+    "penulis": "Petani Sleman",
+    "tanggal": "20 Maret 2026",
+    "lokasi": "Sukoharjo, Jawa Tengah",
+    "isi_berita": "Populasi tikus sawah meningkat pesat pasca panen padi. Tikus merusak tanaman padi muda di fase vegetatif dengan kerusakan mencapai 50% per petak.",
+    "dampak": [
+      "Kerugian ekonomi jutaan per hektar",
+      "Penggunaan rodentisida berlebihan",
+      "Gangguan rantai makanan (pemangsa tikus mati)"
+    ]
+  },
+  {
+    "id": 22,
+    "judul": "Sistem Irigasi Tetes untuk Buah Naga di Lahan Kering",
+    "penulis": "BB Pengembangan Irigasi",
+    "tanggal": "22 Maret 2026",
+    "lokasi": "Gunungkidul, DIY",
+    "isi_berita": "Penerapan irigasi tetes pada pertanaman buah naga di lahan kering kapur meningkatkan produktivitas 40% dan menghemat air 60% dibanding sistem siram.",
+    "dampak": [
+      "Pemanjangan masa produktif tanaman",
+      "Penghematan biaya tenaga kerja",
+      "Peningkatan kualitas buah (ukuran & rasa)"
+    ]
+  },
+  {
+    "id": 23,
+    "judul": "Ekspor Lada Putih Muntok ke Eropa Tembus 10.000 Ton",
+    "penulis": "Asosiasi Eksportir Lada",
+    "tanggal": "25 Maret 2026",
+    "lokasi": "Bangka Belitung",
+    "isi_berita": "Kualitas lada putih Muntok yang bebas kontaminan aflatoksin membuat permintaan dari industri makanan dan farmasi Eropa meningkat signifikan.",
+    "dampak": [
+      "Kenaikan harga beli di tingkat petani",
+      "Revitalisasi kebun lada tradisional",
+      "Peningkatan devisa negara"
+    ]
+  },
+  {
+    "id": 24,
+    "judul": "Pencurian Hasil Panen Kelapa Sawit Marak",
+    "penulis": "Kepolisian Sektor",
+    "tanggal": "28 Maret 2026",
+    "lokasi": "Kalimantan Tengah",
+    "isi_berita": "Aksi pencurian TBS (Tandan Buah Segar) kelapa sawit dari perkebunan plasma petani meningkat. Modus operandi menggunakan truk pada malam hari.",
+    "dampak": [
+      "Kerugian ekonomi petani plasma",
+      "Konflik horizontal antar warga",
+      "Penambahan biaya keamanan perkebunan"
+    ]
+  },
+  {
+    "id": 25,
+    "judul": "Pengembangan Porang sebagai Komoditas Ekspor Baru",
+    "penulis": "Dinas Pertanian Jatim",
+    "tanggal": "30 Maret 2026",
+    "lokasi": "Madiun, Jawa Timur",
+    "isi_berita": "Tanaman porang (Amorphophallus muelleri) dikembangkan secara masif untuk memenuhi permintaan tepung glukomanan dari Jepang dan Tiongkok.",
+    "dampak": [
+      "Diversifikasi tanaman bernilai tinggi",
+      "Pemanfaatan lahan bawah tegakan",
+      "Peningkatan pendapatan petani hutan rakyat"
+    ]
+  },
+  {
+    "id": 26,
+    "judul": "Pembukaan Lahan Pertanian Baru di Kalimantan Utara",
+    "penulis": "Kementerian ATR/BPN",
+    "tanggal": "02 April 2026",
+    "lokasi": "Kalimantan Utara",
+    "isi_berita": "Pemerintah mengalokasikan 50.000 hektar lahan untuk food estate baru dengan komoditas utama sagu, jagung, dan kedelai. Didukung infrastruktur irigasi utama.",
+    "dampak": [
+      "Penyerapan tenaga kerja lokal",
+      "Peningkatan produksi pangan nasional",
+      "Tantangan menjaga keseimbangan ekologi"
+    ]
+  },
+  {
+    "id": 27,
+    "judul": "Wabah PMK (Penyakit Mulut dan Kuku) di Sapi Perah",
+    "penulis": "Dinas Peternakan Jabar",
+    "tanggal": "05 April 2026",
+    "lokasi": "Bandung & Lembang",
+    "isi_berita": "Penyakit Mulut dan Kuku kembali muncul di peternakan sapi perah. Gejala berupa lepuh di mulut, kaki, dan penurunan produksi susu drastis.",
+    "dampak": [
+      "Penurunan produksi susu 50-70%",
+      "Kematian pada pedet dan sapi lemah",
+      "Pembatasan lalu lintas ternak antar wilayah"
+    ]
+  },
+{
+    "id": 28,
+    "judul": "Harga Bawang Merah Anjlok Pasca Panen Raya",
+    "penulis": "Analis Pasar Hortikultura",
+    "tanggal": "08 April 2026",
+    "lokasi": "Brebes, Jawa Tengah",
+    "isi_berita": "Panen raya bawang merah di Brebes menyebabkan oversupply. Harga di tingkat petani jatuh ke Rp 5.000/kg, jauh di bawah biaya produksi.",
+    "dampak": [
+      "Kerugian besar-besaran petani bawang",
+      "Penimbunan oleh tengkulak dengan harga murah",
+      "Protes petani menuntut intervensi pemerintah"
+    ]
+  },
+  {
+    "id": 29,
+    "judul": "Sistem Early Warning Kebakaran Lahan untuk Perkebunan",
+    "penulis": "LAPAN & BIG",
+    "tanggal": "10 April 2026",
+    "lokasi": "Sumatera & Kalimantan",
+    "isi_berita": "Platform digital yang memadukan data satelit hotspot, kelembaban tanah, dan prediksi cuaca membantu mencegah kebakaran lahan di konsesi perkebunan.",
+    "dampak": [
+      "Penurunan titik hotspot hingga 40%",
+      "Respons pemadaman lebih cepat",
+      "Pencegahan konflik perusahaan-masyarakat"
+    ]
+  },
+{
+    "id": 30,
+    "judul": "Koperasi Tani Gandum di Malang Sukses Ekspor",
+    "penulis": "Koperasi Gandum Nusantara",
+    "tanggal": "12 April 2026",
+    "lokasi": "Malang, Jawa Timur",
+    "isi_berita": "Koperasi petani gandum di Malang berhasil mengekspor tepung terigu dari gandum lokal ke Singapura dan Malaysia. Varietas gandum adaptif dataran medium dikembangkan.",
+    "dampak": [
+      "Pengurangan ketergantungan impor gandum",
+      "Pembuktian gandum tropis bisa berkembang",
+      "Inspirasi diversifikasi pangan non-beras"
+    ]
+  },
+  {
+    "id": 31,
+    "judul": "Konversi Lahan Sawah di Pinggiran Kota Makin Masif",
+    "penulis": "Konsorsium Pembaruan Agraria",
+    "tanggal": "15 April 2026",
+    "lokasi": "Jakarta, Bogor, Depok, Tangerang, Bekasi",
+    "isi_berita": "Tekanan pembangunan perumahan dan industri menggerus lahan sawah subur di daerah penyangga pangan ibu kota. Rata-rata 500 hektar hilang per tahun.",
+    "dampak": [
+      "Berkurangnya ketahanan pangan lokal",
+      "Meningkatnya banjir karena hilang daerah resapan",
+      "Konflik agraria antara petani dan pengembang"
+    ]
+  },
+  {
+    "id": 32,
+    "judul": "Pemanfaatan Limbah Sawit untuk Budidaya Maggot",
+    "penulis": "Universitas Riau",
+    "tanggal": "18 April 2026",
+    "lokasi": "Riau",
+    "isi_berita": "Limbah padat kelapa sawit (solid) dan janjangan kosong (TKKS) berhasil digunakan sebagai media budidaya maggot Black Soldier Fly (BSF) untuk pakan ternak.",
+    "dampak": [
+      "Pengurangan limbah perkebunan sawit",
+      "Biaya pakan ternak lebih murah 40%",
+      "Sirkular ekonomi di sektor perkebunan"
+    ]
+  },
+  {
+    "id": 33,
+    "judul": "Krisis Tenaga Kerja Panen di Perkebunan Teh",
+    "penulis": "PTPN VIII",
+    "tanggal": "20 April 2026",
+    "lokasi": "Bandung & Garut",
+    "isi_berita": "Minimnya pemetik teh muda menyebabkan banyak pucuk teh tidak terpetik optimal. Upah yang dianggap tidak sebanding dengan kerja keras menjadi penyebab.",
+    "dampak": [
+      "Penurunan kualitas teh (pucuk tua)",
+      "Produktivitas kebun menurun 20%",
+      "Mekanisasi pemetikan teh dipertimbangkan"
+    ]
+  },
+  {
+    "id": 34,
+    "judul": "Penyelundupan Pestisida Ilegal dari Luar Negeri",
+    "penulis": "Bea Cukai Tanjung Priok",
+    "tanggal": "22 April 2026",
+    "lokasi": "Jakarta",
+    "isi_berita": "Penyitaan 10 kontainer pestisida ilegal yang tidak terdaftar dan mengandung bahan aktif berbahaya. Beredar di pasar gelap dengan harga murah.",
+    "dampak": [
+      "Bahaya residu kimia pada produk pangan",
+      "Kerusakan ekosistem tanah dan air",
+      "Persaingan tidak sehat dengan produk legal"
+    ]
+  },
+  {
+    "id": 35,
+    "judul": "Peluncuran Platform Digital Pasar Tani Nasional",
+    "penulis": "Kementerian BUMN",
+    "tanggal": "25 April 2026",
+    "lokasi": "Nasional",
+    "isi_berita": "Aplikasi 'TaniHub Pro' resmi diluncurkan, menghubungkan petani langsung dengan pembeli besar (restoran, hotel, retailer). Fitur lengkap dari pendanaan hingga logistik.",
+    "dampak": [
+      "Pemotongan rantai distribusi yang panjang",
+      "Harga jual petani lebih kompetitif",
+      "Transparansi harga dan kualitas produk"
+    ]
+  },
+  {
+    "id": 36,
+    "judul": "Budidaya Udang Vaname Intensif di Tambak Bekas",
+    "penulis": "Kementerian Kelautan dan Perikanan",
+    "tanggal": "28 April 2026",
+    "lokasi": "Situbondo, Jawa Timur",
+    "isi_berita": "Konversi tambak tradisional ke sistem intensif dengan teknologi bioflok dan kontrol kualitas air meningkatkan produksi udang vaname dari 10 ton/ha menjadi 50 ton/ha.",
+    "dampak": [
+      "Peningkatan ekspor udang Indonesia",
+      "Pendapatan petambak naik signifikan",
+      "Tantangan pengelolaan limbah padat budidaya"
+    ]
+  },
+  {
+    "id": 37,
+    "judul": "Pengembangan Padi Hibrida Unggul oleh Swasta Nasional",
+    "penulis": "Perusahaan Benih Nasional",
+    "tanggal": "30 April 2026",
+    "lokasi": "Sragen, Jawa Tengah",
+    "isi_berita": "Varietas padi hibrida baru 'Hibrindo 1' menghasilkan 12 ton/ha GKP, tahan wereng batang coklat biotipe 3, dan umur pendek (105 hari).",
+    "dampak": [
+      "Ketahanan terhadap hama utama",
+      "Peningkatan produksi beras nasional",
+      "Penguasaan teknologi benih dalam negeri"
+    ]
+  },
+  {
+    "id": 38,
+    "judul": "Festival Buah Lokal Nusantara di Surabaya",
+    "penulis": "Pemkot Surabaya",
+    "tanggal": "02 Mei 2026",
+    "lokasi": "Surabaya, Jawa Timur",
+    "isi_berita": "Event tahunan memamerkan 300 varietas buah lokal dari Sabang sampai Merauke. Tujuan melestarikan keanekaragaman hayati dan meningkatkan nilai ekonomis.",
+    "dampak": [
+      "Peningkatan kesadaran konsumsi buah lokal",
+      "Pemasaran langsung petani buah",
+      "Pelestarian plasma nutfah langka"
+    ]
+  },
+  {
+    "id": 39,
+    "judul": "Alat Perontok Padi Multifungsi untuk Lahan Sempit",
+    "penulis": "Balai Pengembangan Alat Mesin Pertanian",
+    "tanggal": "05 Mei 2026",
+    "lokasi": "Subang, Jawa Barat",
+    "isi_berita": "Alat perontok padi portabel berbahan bakar bensin atau listrik dirancang untuk petani lahan sempit di daerah pegunungan. Kapasitas 200kg/jam.",
+    "dampak": [
+      "Pengurangan kehilangan hasil panen",
+      "Mengurangi ketergantungan pada penyewa tresher besar",
+      "Mempercepat proses panen pasca potong"
+    ]
+  },
+  {
+    "id": 40,
+    "judul": "Kearifan Lokal 'Subak' di Bali Diusulkan ke UNESCO",
+    "penulis": "Pemerintah Provinsi Bali",
+    "tanggal": "07 Mei 2026",
+    "lokasi": "Bali",
+    "isi_berita": "Sistem irigasi dan manajemen air tradisional 'Subak' yang berlandaskan filosofi Tri Hita Karana diajukan sebagai Warisan Budaya Dunia tak benda.",
+    "dampak": [
+      "Pengakuan internasional terhadap pertanian Bali",
+      "Dukungan pelestarian sistem sosial-ekologis",
+      "Peningkatan pariwisata berbasis pertanian budaya"
+    ]
   }
 ]
