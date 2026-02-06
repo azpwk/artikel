@@ -1,4 +1,5 @@
-{
+[
+ {
   "id":1,
   "judul": "Intensitas Hujan Januari 2026: Petani Cabai Terancam Gagal Panen",
   "penulis": "Admin Tani",
@@ -27,4 +28,6 @@
     "isi_berita": "Kenaikan harga mulai terasa di pasar-pasar induk karena kegagalan panen di tingkat produsen..."
   }
 
-}
+} 
+]
+
