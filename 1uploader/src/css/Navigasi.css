@@ -1,0 +1,98 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px 8%;
+  background: white;
+  box-shadow: var(--shadow);
+  position: sticky;
+  top: 0;
+  z-index: 2000;
+}
+.logo {
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: var(--primary);
+  text-decoration: none;
+}
+
+.nav-links a {
+  text-decoration: none;
+  color: var(--text-main);
+  margin-left: 30px;
+  font-weight: 500;
+  transition: var(--transition);
+}
+
+.nav-links a:hover,
+.nav-links a.active {
+  color: var(--primary);
+  border-bottom: 2px solid var(--primary);
+  padding-bottom: 5px;
+}
+/* .nav-links a.active {
+  color: var(--primary);
+  border-bottom: 2px solid var(--primary);
+  padding-bottom: 5px;
+} */
+/* --- Hamburger Menu Icon --- */
+.hamburger {
+  display: none; /* Sembunyi di desktop */
+  cursor: pointer;
+  flex-direction: column;
+  gap: 5px;
+}
+
+.bar {
+  display: block;
+  width: 25px;
+  height: 3px;
+  background-color: var(--primary);
+  transition: var(--transition);
+  border-radius: 3px;
+}
+
+/* --- Mobile Responsive Logic --- */
+@media (max-width: 768px) {
+  .hamburger {
+    display: flex;
+  }
+
+  /* Animasi Hamburger jadi 'X' saat active */
+  .hamburger.active .bar:nth-child(2) {
+    opacity: 0;
+  }
+  .hamburger.active .bar:nth-child(1) {
+    transform: translateY(8px) rotate(45deg);
+  }
+  .hamburger.active .bar:nth-child(3) {
+    transform: translateY(-8px) rotate(-45deg);
+  }
+
+  .nav-links {
+    position: absolute;
+    top: 100%; /* Muncul tepat di bawah navbar */
+    left: -100%; /* Mulai dari luar layar */
+    flex-direction: column;
+    background: white;
+    width: 100%;
+    text-align: right;
+
+    transition: 0.5s cubic-bezier(0.77, 0.2, 0.05, 1);
+    box-shadow: 0 10px 15px rgba(0, 0, 0, 0.455);
+    padding: 20px 0;
+  }
+
+  .nav-links.mobile-active {
+    margin-left: 0 auto;
+    left: 0; /* Masuk ke layar */
+  }
+
+  .nav-links a {
+    margin: 15px 0;
+    margin-right: 10px;
+    /* margin-left: 150px; */
+    display: block;
+    font-size: 1.1rem;
+  }
+}

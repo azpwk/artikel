@@ -1,0 +1,82 @@
+/* src/css/footer.css */
+footer {
+  background: #1a531b; /* Hijau tua yang lebih elegan */
+  color: white;
+  padding: 60px 8% 20px;
+  margin-top: 100px;
+  border-top: 1px solid black; /* Aksen merah biar matching dengan Logo */
+}
+
+.footer-content {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  flex-wrap: wrap; /* Agar rapi saat dibuka di HP */
+  gap: 40px;
+}
+
+.copyright {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.logo-footer {
+  font-size: 1.8rem;
+  font-weight: bold;
+  text-decoration: none;
+  color: aliceblue;
+}
+
+.logo-footer span {
+  color: #ff4d4d; /* Merah cerah */
+}
+
+.handle {
+  font-weight: 500;
+  color: #a8e6cf; /* Hijau muda pucat */
+  margin-top: -5px;
+}
+
+.contact h4 {
+  margin-bottom: 15px;
+  font-size: 1.1rem;
+  color: #ffd700; /* Warna emas untuk judul kecil */
+}
+
+.contact ul {
+  list-style: none;
+  padding: 0;
+}
+
+.contact ul li {
+  margin-bottom: 8px;
+  font-size: 0.9rem;
+  opacity: 0.9;
+}
+
+.footer-bottom {
+  text-align: center;
+  margin-top: 50px;
+  padding-top: 20px;
+  border-top: 1px solid rgba(255, 255, 255, 0.1);
+  font-size: 0.8rem;
+  color: #ccc;
+}
+
+/* Responsif Mobile */
+@media (max-width: 768px) {
+  footer {
+    padding: 40px 5% 20px;
+    text-align: center;
+  }
+
+  .footer-content {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .copyright {
+    align-items: center;
+  }
+}

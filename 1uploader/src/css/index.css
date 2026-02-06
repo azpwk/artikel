@@ -1,0 +1,99 @@
+@import url("https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;600;700&display=swap");
+
+:root {
+  --primary: #4fa044;
+  --secondary: #638c50;
+  --accent: #c5a059;
+  --bg-soft: #f7faf8a3;
+  --text-main: #2c332b;
+  --text-muted: #666;
+  --transition: all 0.4s cubic-bezier(0.165, 0.84, 0.44, 1);
+  --shadow: 0 10px 30px rgba(0, 0, 0, 0.05);
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Plus Jakarta Sans", sans-serif;
+  background-color: white;
+  color: var(--text-main);
+  overflow-x: hidden;
+}
+
+.container {
+  background-color: white;
+  min-height: 80vh;
+  padding: 40px 5%;
+  max-width: 1300px;
+  margin: 0 auto;
+  animation: pageFade 0.8s ease;
+}
+
+/* Card Style */
+.card {
+  background: var(--white);
+  padding: 20px;
+  border-radius: 15px;
+  box-shadow: var(--shadow);
+  transition: var(--transition);
+  border: 1px solid black;
+  /* background-color: black; */
+  cursor: pointer;
+}
+
+.card:hover {
+  transform: translateY(-10px);
+  border-color: var(--secondary);
+}
+
+/* Efek transisi saat gambar di hover */
+.card img {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 10px;
+  margin-bottom: 15px;
+  transition: transform 0.5s ease;
+}
+
+.card:hover img {
+  transform: scale(1.05);
+}
+
+@keyframes pageFade {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/*  */
+
+.input-field {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  font-family: inherit;
+  margin-top: 5px;
+  transition: var(--transition);
+}
+
+.input-field:focus {
+  outline: none;
+  border-color: var(--primary);
+  box-shadow: 0 0 0 3px rgba(45, 90, 39, 0.1);
+}
+
+/*  */
+/* Membuat scroll antar section jadi smooth */
+html {
+  scroll-behavior: smooth;
+}
