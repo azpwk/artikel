@@ -10,4 +10,21 @@
     "Penyebaran jamur antraknosa yang masif",
     "Kenaikan harga pupuk cair untuk pemulihan"
   ]
+  ,
+
+  {
+    "id": 2,
+    "tanggal": "07 Januari 2026",
+    "title": "Hujan Ekstrem Januari: Petani Cabai Siaga Satu",
+    "lokasi": "Jawa Tengah",
+    "isi_berita": "Intensitas hujan yang mencapai 400mm di awal tahun membuat lahan cabai terancam busuk akar..."
+  },
+  {
+    "id": 3,
+    "tanggal": "15 Januari 2026",
+    "title": "Stok Cabai Nasional Menipis Akibat Cuaca",
+    "lokasi": "Nasional",
+    "isi_berita": "Kenaikan harga mulai terasa di pasar-pasar induk karena kegagalan panen di tingkat produsen..."
+  }
+
 }
